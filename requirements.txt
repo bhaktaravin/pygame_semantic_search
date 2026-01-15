@@ -1,0 +1,6 @@
+pygame
+pymongo
+sentence-transformers
+numpy
+python-dotenv
+pillow

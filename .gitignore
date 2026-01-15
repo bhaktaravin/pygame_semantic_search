@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+ai/__init__.py
+
+mongodb/__init__.py
+*.env
+ui/__init__.py
+db/__init__.py
+
+game/__init__.py
